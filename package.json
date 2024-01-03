@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gsantella/js-jest-testing.git"
+    "url": "git+https://github.com/SquidO22/js-jest-testing.git"
   },
   "keywords": [
     "testing",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gsantella/js-jest-testing/issues"
+    "url": "https://github.com/SquidO22/js-jest-testing/issues"
   },
-  "homepage": "https://github.com/gsantella/js-jest-testing#readme",
+  "homepage": "https://github.com/SquidO22/js-jest-testing#readme",
   "devDependencies": {
     "jest": "^29.7.0"
   }
