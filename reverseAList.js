@@ -1,5 +1,7 @@
 const reverseAList = (list) => {
-    return [3,2,1]
+    const nums = [num1, num2, num3];
+    nums.reverse();
+    return nums;
 }
 
 module.exports = reverseAList
